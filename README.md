@@ -31,9 +31,9 @@ I enjoy working with a diverse set of tools, focusing on performance and clean a
 
 Here are some of the projects I'm currently working on:
 
-- **[c_dict](https://github.com/aergen29/c_dict)** - ⚡ A high-performance, zero-dependency JSON parser & dictionary library for C. Optimized for contiguous memory usage (up to 16x less RAM than cJSON).
-- **[SpaceWar](https://github.com/aergen29/SpaceWar)** - 🎮 A classic arcade shooter built with C# & WPF, featuring custom physics engine and collision detection.
-- **[SeaBattle](https://github.com/aergen29/SeaBattle)** - ⚓ A web-based strategy game implemented with modern web technologies.
+- **[c_dict](https://github.com/aergen29/c_dict)** - A high-performance, zero-dependency JSON parser & dictionary library for C. Optimized for contiguous memory usage (up to 16x less RAM than cJSON).
+- **[SpaceWar](https://github.com/aergen29/SpaceWar)** - A classic arcade shooter built with C# & WPF, featuring custom physics engine and collision detection.
+- **[SeaBattle](https://github.com/aergen29/SeaBattle)** - A web-based strategy game implemented with modern web technologies.
 
 ---
 
